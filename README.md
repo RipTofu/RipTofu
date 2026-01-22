@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**RipTofu/RipTofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+<img src="res/frog.gif" style="height:150px;" align=left>
+<pre style="align-items: center">
+🌲 Engineer ✶ 🇨🇱 ✶ Freelance Web Developer
+🌿 Low-level programming ✶ IT MGMT
+🌱 Currently learning Godot
+🌰 Ask me about my codes
+🇨🇱
+</pre>
+<br><br>
+</div>
