@@ -5,7 +5,6 @@
 🌿 Low-level programming ✶ IT MGMT
 🌱 Currently learning Godot
 🌰 Ask me about my codes
-🇨🇱
 </pre>
 <br><br>
 </div>
