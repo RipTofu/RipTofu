@@ -13,19 +13,19 @@
 
   <table align="left">
     <tr>
-      <td align="center"><img src="res/C_ICON.png" width="24"></td>
-      <td align="center"><img src="res/python_icon.png" width="24"></td>
-      <td align="center"><img src="res/C++_ICON.png" width="24"></td>
+      <td align="center"><img src="res/C_ICON.png" width="24" alt="C"></td>
+      <td align="center"><img src="res/python_icon.png" width="24" alt="Python"></td>
+      <td align="center"><img src="res/C++_ICON.png" width="24" alt="C++"></td>
     </tr>
     <tr>
-      <td align="center"><img src="res/HTML5.png" width="24"></td>
-      <td align="center"><img src="res/CSS.png" width="24"></td>
-      <td align="center"><img src="res/JS.png" width="24"></td>
+      <td align="center"><img src="res/HTML5.png" width="24" alt="HTML"></td>
+      <td align="center"><img src="res/CSS.png" width="24" alt="CSS"></td>
+      <td align="center"><img src="res/JS.png" width="24" alt="Javascript"></td>
     </tr>
     <tr>
-      <td align="center"><img src="res/java_temp.png" width="24"></td>
-      <td align="center"><img src="res/godot-4-color.png" width="24"></td>
-      <td align="center"><img src="res/mysql_temp.png" width="24"></td>
+      <td align="center"><img src="res/java_temp.png" width="24" alt="Java"></td>
+      <td align="center"><img src="res/mysql_temp.png" width="24" alt="MySQL"></td>
+      <td align="center"><img src="res/godot-4-color.png" width="24" alt="Godot"></td>
     </tr>
   </table>
 
