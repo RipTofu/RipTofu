@@ -25,7 +25,7 @@
     <tr>
       <td align="center"><img src="res/java_temp.png" width="24" alt="Java"></td>
       <td align="center"><img src="res/mysql_temp.png" width="24" alt="MySQL"></td>
-      <td align="center"><img src="res/godot-4-color.png" width="24" alt="Godot"></td>
+      <td align="center"><img src="res/godot_icon.png" width="24" alt="Godot"></td>
     </tr>
   </table>
 
